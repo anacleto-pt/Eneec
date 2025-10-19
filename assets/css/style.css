@@ -30,8 +30,8 @@ a:focus {
 }
 
 @font-face {
-  font-family: "Beacon";
-  src: url(../fonts/Beacon.otf) format("opentype");
+  font-family: "ov3";
+  src: url(../fonts/ov3read.regular.ttf) format("opentype");
 }
 
 @font-face {
@@ -259,7 +259,7 @@ h6 {
 
 /* ENEEC */
 .logo .font-panton {
-  font-family: "Beacon", sans-serif;
+  font-family: "ov3", sans-serif;
   font-weight: 200;
   color: white;
 }
