@@ -1,10 +1,3 @@
-Here is a professional README file created for your website, based on its content.
-
-This file is ready to be copied and pasted into a `README.md` file in your GitHub repository.
-
------
-
-````markdown
 # ENEEC 2026 - Encontro Nacional de Estudantes de Engenharia Computacional
 
 [![Live Site](https://img.shields.io/badge/Live_Site-Visit_Now-brightgreen.svg)](https://eneec.web.ua.pt/)
@@ -20,9 +13,8 @@ As we discussed, you can't embed the live website directly. The best way to show
 2.  Add it to a folder in this repository (e.g., `/assets/screenshot.png`).
 3.  Replace the code below with your image path and URL.
 
-```markdown
 [![ENEEC 2026 Website Preview](path/to/your/assets/screenshot.png)](https://eneec.web.ua.pt/)
-````
+
 
 ## 🎯 About the Event
 
