@@ -61,7 +61,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 
   * A big thank you to the entire ENEEC 2026 organizing team.
 
-<!-- end list -->
-
-```
-```
