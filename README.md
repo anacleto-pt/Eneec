@@ -6,13 +6,6 @@ This repository contains the source code for the official website of ENEEC 2026,
 
 ## 🚀 Preview
 
-As we discussed, you can't embed the live website directly. The best way to show it off is to **add a screenshot and link it to your live site.**
-
-**How to add your screenshot:**
-1.  Take a screenshot of your website's homepage.
-2.  Add it to a folder in this repository (e.g., `/assets/screenshot.png`).
-3.  Replace the code below with your image path and URL.
-
 [![ENEEC 2026 Website Preview](assets/Gravacaodoecra2025-11-15as12.20.10-ezgif.com-speed.gif)](https://eneec.web.ua.pt/)
 
 
@@ -43,19 +36,9 @@ The website is a single-page application that includes:
 
 ## 🛠️ Built With
 
-*(You can update this section with the technologies you used)*
-
   * HTML
   * CSS
   * JavaScript
-  * [Any frameworks, e.g., React, Vue, etc.]
-  * [Any hosting platforms, e.g., GitHub Pages, Vercel]
-
-## 📜 License
-
-*(You should add a license file to your repository and link to it here. The MIT License is a popular choice for open-source projects.)*
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 ## 🙏 Acknowledgements
 
